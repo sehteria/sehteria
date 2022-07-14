@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @sehteria
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning GSC scripting
-- 📫 How to reach me [![Discord - sehteria#9914](https://img.shields.io/badge/Discord-sehteria%239914-5865F3)]
+- 📫 How to reach me ![Discord - sehteria#9914](https://img.shields.io/badge/Discord-sehteria%239914-5865F3)
 
 <a href="https://github.com/sehteria">
   <p align="left">
