@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 ![rainbow](https://user-images.githubusercontent.com/105174892/169637581-7cad1a77-f394-47f0-90dc-ac1423fe2bef.gif)
 - 👋 Hi, I’m @sehteria
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning GSC scripting
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ![Discord - sehteria#9914](https://img.shields.io/badge/Discord-sehteria%239914-5865F3)
 
 ![rainbow](https://user-images.githubusercontent.com/105174892/169637581-7cad1a77-f394-47f0-90dc-ac1423fe2bef.gif)
